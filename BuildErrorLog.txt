@@ -1,0 +1,2 @@
+parse error FS3053: error : The type provider constructor has thrown an exception: Could not load file or assembly 'Testx64Library, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'. This assembly was compiled for a different processor.
+FSC: warning FS3005: Referenced assembly '...\Projects\FsXamlx64Test\packages\FsXaml.Wpf.0.9.9\lib\net45\FsXaml.Wpf.TypeProvider.dll' has assembly level attribute 'Microsoft.FSharp.Core.CompilerServices.TypeProviderAssemblyAttribute' but no public type provider classes were found
