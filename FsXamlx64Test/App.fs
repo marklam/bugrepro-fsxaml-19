@@ -10,8 +10,8 @@ open FsXaml
 type App = XAML<"App.xaml">
 type MainWindow = XAML<"MainWindow.xaml">
 
-let app = App().Root
-let mainWindow = MainWindow().Root
+let app = App()
+let mainWindow = MainWindow()
 
 [<STAThread>]
 [<EntryPoint>]
